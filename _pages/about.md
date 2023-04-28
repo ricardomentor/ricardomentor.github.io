@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>Estudiante de ingenieria en computación 
+subtitle: <a href='#'></a>Estudiante de ingenieria en computación 
 
 profile:
   align: right
@@ -24,4 +24,4 @@ me gusta el futbol y las carreras de caballos.
 
 Mi red social de contactro es Facebook: [Ricardo Salazar](https://www.facebook.com/profile.php?id=100010402561195).
 
-Soy maestro pokémon en PokémonGo, me impota estra informado acerca sobre el videojuego [Pokémon](https://www.reddit.com/r/pokemongo/).
+Soy maestro pokémon en PokémonGo, me impota estar informado acerca sobre el videojuego [Pokémon](https://www.reddit.com/r/pokemongo/).
